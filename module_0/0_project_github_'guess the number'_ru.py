@@ -41,7 +41,7 @@ def score_game(game_core):
     return(score)
 
 
-score_game(find_predict) #выводим среднее число попыток для угадывания числа 
+score_game(find_predict) # выводим среднее число попыток для угадывания числа 
 
 
 # In[ ]:
