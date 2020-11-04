@@ -42,7 +42,7 @@ def score_game(game_core):
     return(score)
 
 
-score_game(find_predict) # print the average number of attempts 
+score_game(find_predict) #print the average number of attempts 
 
 
 # In[ ]:
